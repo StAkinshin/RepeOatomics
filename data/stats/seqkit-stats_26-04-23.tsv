@@ -1,0 +1,2 @@
+file	format	type	num_seqs	sum_len	min_len	avg_len	max_len	Q1	Q2	Q3	sum_gap	N50	N50_num	Q20(%)	Q30(%)	AvgQual	GC(%)	sum_n
+Asativa_cv-Williams_v1.0.fna.gz	FASTA	DNA	2738	11107750728	16170	4056884.9	731176523	32388	38130	47249	0	515070357	10	0	0	0.00	43.78	7700
