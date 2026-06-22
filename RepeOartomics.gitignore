@@ -228,4 +228,5 @@ rsconnect/
 # R package: bookdown caching files
 /*_files/
 
+*.classified.fa
 # End of https://www.toptal.com/developers/gitignore/api/python,r
