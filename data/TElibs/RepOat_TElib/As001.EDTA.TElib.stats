@@ -1,0 +1,2 @@
+file                       format  type  num_seqs      sum_len  min_len  avg_len  max_len
+As001.EDTA.TElib.dedup.fa  FASTA   DNA     92,225  184,620,080       80  2,001.8   23,259
